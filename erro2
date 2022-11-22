@@ -1,0 +1,13 @@
+litro = int(input("Informe a quantidade de litros: "))
+
+if(litro<1000):
+    print("Informe a quantidade de litros: ")
+
+elif str or number:
+    print("Dado não válido")
+
+else :
+    print("Informe a quantidade de litros: ")
+
+destino = input("Informe a quantidade de litros: ")
+distancia = int(input("Quantos KM o carro rodou: "))
