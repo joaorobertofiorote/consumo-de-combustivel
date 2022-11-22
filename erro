@@ -1,0 +1,6 @@
+litro = str(input("Informe a quantidade de litros: "))
+
+controle = ''
+while(controle!='str'):
+    print ("Dados não válidos")
+    controle = input("Informe a quantidade de litros: ")
